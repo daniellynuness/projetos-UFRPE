@@ -16,7 +16,7 @@ Este espaço servirá como um portfólio dos trabalhos e projetos realizados em 
 
 ### 2. Gerenciador de Email
 - **Descrição**: Programa que executa um algoritmo para analisar, separar, marcar como visto e excluir emails.
-- **Tecnologias**: Python
+- **Tecnologias**: Python, imaplib e email (bibliotecas do python)
 - **Status**: Concluído
 
 ## 🛠️ Tecnologias Utilizadas
