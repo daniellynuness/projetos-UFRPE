@@ -12,6 +12,12 @@ Este espaço servirá como um portfólio dos trabalhos e projetos realizados em 
 - **Descrição**: Programa com interface gráfica para conversão entre números decimais e binários
 - **Tecnologias**: Python, Tkinter
 - **Status**: Concluído
+#
+
+### 2. Gerenciador de Email
+- **Descrição**: Programa que executa um algoritmo para analisar, separar, marcar como visto e excluir emails.
+- **Tecnologias**: Python
+- **Status**: Concluído
 
 ## 🛠️ Tecnologias Utilizadas
 
