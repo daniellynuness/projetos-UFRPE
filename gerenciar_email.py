@@ -3,7 +3,7 @@ import email
 from email.header import decode_header
 
 # --- Configurações do Servidor de Email ---
-IMAP_SERVER = "imap.gmail.com"  # Servidor IMAP do seu provedor
+IMAP_SERVER = "imap.gmail.com"  
 EMAIL_ADDRESS = "seu_email@gmail.com"
 APP_PASSWORD = "sua_senha_de_aplicativo"
 
