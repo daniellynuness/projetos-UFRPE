@@ -21,10 +21,15 @@ Este espaço servirá como um portfólio dos trabalhos e projetos realizados em 
 #
 
 ### 3. ToDo List
-- **Descrição**: Programa para criar, editar e excluir notas. Também é possível atribuir status a essas notas, como: "a fazer","executando","pronta".
+- **Descrição**: Programa para criar, visualizar, editar e excluir notas. Também é possível atribuir status a essas notas, como: "a fazer","executando","pronta".
 - **Tecnologias**: Python, os (biblioteca do python)
 - **Status**: Concluído
+#
 
+### 4. Estimativa de Leitura
+- **Descrição**: Programa para avaliar hábitos de leitura de um usuário e fornecer análises e recomendações.
+- **Tecnologias**: Python
+- **Status**: Concluído
 
 ## 🛠️ Tecnologias Utilizadas
 
