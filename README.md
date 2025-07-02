@@ -30,6 +30,12 @@ Este espaço servirá como um portfólio dos trabalhos e projetos realizados em 
 - **Descrição**: Programa para avaliar hábitos de leitura de um usuário e fornecer análises e recomendações.
 - **Tecnologias**: Python
 - **Status**: Concluído
+#
+
+### 5. Conversor de Temperatura
+- **Descrição**: Programa para converter temperaturas Fahrenheit para Celsius.
+- **Tecnologias**: Python
+- **Status**: Concluído
 
 ## 🛠️ Tecnologias Utilizadas
 
