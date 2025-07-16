@@ -36,6 +36,13 @@ Este espaço servirá como um portfólio dos trabalhos e projetos realizados em 
 - **Descrição**: Programa para converter temperaturas Fahrenheit para Celsius.
 - **Tecnologias**: Python
 - **Status**: Concluído
+#
+
+### 6. RPG de Turno
+- **Descrição**: Programa que simula um jogo de batalha com mecânicas de RPG com combates entre heróis e vilões.
+- **Tecnologias**: Python
+- **Status**: Concluído
+
 
 ## 🛠️ Tecnologias Utilizadas
 
